@@ -10,7 +10,7 @@ The datasets used for this project were the following, all sourced from Kaggle:
 - [The Echo Nest](https://www.kaggle.com/datasets/veronikafilippou/echonestmetricsjson)
 - [fma-rock-vs-hiphop](https://www.kaggle.com/datasets/veronikafilippou/fmarockvshiphop) 
 - [Spotify - All Time Top 2000s Mega Dataset](https://www.kaggle.com/datasets/iamsumat/spotify-top-2000s-mega-dataset) 
-- ANDRII SAMOSHYN’s [Dataset of songs in Spotify](https://www.kaggle.com/datasets/mrmorj/dataset-of-songs-in-spotify/data) 
+- [Dataset of songs in Spotify](https://www.kaggle.com/datasets/mrmorj/dataset-of-songs-in-spotify/data) 
 
 All this datasets were merged, resulting in a new dataset with 10878 entries, with 6129 Hip-Hop songs and 4749 Rock songs. The dataset was filtered to contain only relevant variables to this song classification problem, resulting in the following: genre_top, duration, loudness, tempo, speechiness, acousticness, danceability, valence, energy, instrumentalness, liveness.
 
